@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+}
+
+header {
+    background-color: rgb(75, 224, 175);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav > button {
+    margin-left: 20%;
+}
+
+figure {
+    width: 10%
+}
+figure > img {
+    width: 75%;
+    height: 75%;
+}
+
+footer {
+   background-color:aliceblue
+   color: aqua
+   align: center;
+}
+
+img {
+    width: 50%
+    height: 75%;
+}
+
